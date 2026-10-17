@@ -1,0 +1,9 @@
+{
+  "type": "client-csharp",
+  "require": {
+    "sdkfabric/twilio": {
+      "target": "./src/SdkFabric.Twilio",
+      "namespace": "SdkFabric.Twilio"
+    }
+  }
+}
