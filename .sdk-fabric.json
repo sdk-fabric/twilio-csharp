@@ -1,0 +1,7 @@
+{
+  "namespace": "SdkFabric.Twilio",
+  "company": "Apioo",
+  "description": "Twilio C# SDK managed by SDK Fabric",
+  "copyright": "Christoph Kappestein",
+  "website": "https://sdk-fabric.org"
+}
